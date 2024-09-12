@@ -10,6 +10,7 @@
 
 - Python 3.11
 - pytest 8.3.3
+- requests 2.32.3
 - python-dotenv 1.0.1
 - playwright 1.46.0
 - pytest-playwright 0.5.2
