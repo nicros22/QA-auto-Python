@@ -1,7 +1,7 @@
 import os
 
 import pytest
-from curl_cffi import requests
+import requests
 from dotenv import load_dotenv
 
 load_dotenv()
